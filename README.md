@@ -1,6 +1,6 @@
-# Triple Espresso
+# Triple Arte y Galeria
 
 # Descripcion del proyecto
-Trata sobre una cafeteria donde expones una calida bienvenida, compartiendo horarios y ubicacion del lugar, donde podremos observar recetas de las que se suele preparar en este negocio y no solamente eso, tambien podemos reservar una mesa: con fecha y hora de la reservacion, donde agregamos un formulario el cual permite al cliente poner datos para facilitar la reservacion. 
+La pagina es una galeria con arte donde muestran lugares donde provienen colegas reunidos en la ciudad de tipleten
 # Mis planes de como mejorar el proyecto
-Hacerlo con javascript mas interactivo y que tenga mas animaciones esta pagina web.
+en un futuro con mas experiencia darle interactividad y que sea mas llamativo el proyecto
