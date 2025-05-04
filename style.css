@@ -1,0 +1,15 @@
+body {
+    max-width: 1280px;
+}
+
+@media (max-width: 768px) {
+    body {
+
+    }
+}
+
+@media (max-width: 320px) {
+    body {
+
+    }
+}
