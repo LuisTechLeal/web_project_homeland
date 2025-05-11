@@ -76,6 +76,7 @@
 }
 
 .stories__header_creator {
+  font-size: 18px;
   line-height: 22px;
   margin: 0;
 }
@@ -157,7 +158,19 @@
     max-height: 340px;
     grid-row: 2 / 4;
   }
+  .stories__button {
+    grid-column: 1 / 4;
+    grid-row: 4;
+    font-size: 14px;
+  }
   .stories__link {
     padding: 10px;
   }
+   .stories__paragraph {
+    max-width: 352px;
+    font-size: 12px;
+    grid-column: span 3;
+    grid-row: 2 / 5;
+  }
+
 }
