@@ -2,7 +2,7 @@
   width: 1280px;
   flex-direction: column;
 }
-.section__content_image {
+.section__content-image {
   width: 100%;
   height: 442px;
   display: grid;
@@ -22,7 +22,7 @@
     margin-left: 20%;
   }
 
-  .section__content_image {
+  .section__content-image {
     display: grid;
     grid-template-columns: 1fr;
   }
@@ -39,7 +39,7 @@
 width: 720px;
 height: 1104px;
 }
-.section__content_image{
+.section__content-image{
 display: grid;
 grid-template-columns: repeat(2,50%);
 }
